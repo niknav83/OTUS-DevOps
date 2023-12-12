@@ -1,2 +1,2 @@
-# OTUS-DevOps-
+# OTUS-DevOps
 DevOps практики и инструменты 
